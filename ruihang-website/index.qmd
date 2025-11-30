@@ -1,9 +1,0 @@
----
-title: "Home"
----
-
-# Hi, I'm Ruihang (Jason) Han
-
-Incoming PhD student in Statistics at Georgia State University.
-
-This is my academic homepage.
